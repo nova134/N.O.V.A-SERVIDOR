@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-php -S 0.0.0.0:10000
-
+apt-get update
+apt-get install -y php php-cli php-curl
